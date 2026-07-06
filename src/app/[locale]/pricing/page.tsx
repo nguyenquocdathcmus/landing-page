@@ -22,7 +22,7 @@ export default async function PricingPage({
   const t = await getTranslations("pricing");
 
   const freeFeatures = [t("free1"), t("free2"), t("free3"), t("free4")];
-  const proFeatures = [t("pro1"), t("pro2"), t("pro3"), t("pro4"), t("pro5"), t("pro6")];
+  const proFeatures = [t("pro1"), t("pro2"), t("pro3"), t("pro4"), t("pro5"), t("pro6"), t("pro7"), t("pro8")];
   const faq = [
     { q: t("faq1Q"), a: t("faq1A") },
     { q: t("faq2Q"), a: t("faq2A") },

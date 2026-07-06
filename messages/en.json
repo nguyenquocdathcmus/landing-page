@@ -70,7 +70,7 @@
     "freePeriod": "/forever",
     "freeCta": "Download for free",
     "free1": "Unlimited recordings",
-    "free2": "Automatic zoom & cursor animations",
+    "free2": "Basic editing (trim, split, speed)",
     "free3": "720p export",
     "free4": "5-minute max recording length",
     "proBadge": "Most popular",
@@ -82,8 +82,8 @@
     "pro2": "Up to 4K 60fps export",
     "pro3": "Webcam & audio recording",
     "pro4": "On-device transcript generation",
-    "pro5": "No recording length limit",
-    "pro6": "Priority support",
+    "pro5": "Automatic zoom & cursor animations",
+    "pro6": "Chapters, text annotations, notes & blur",
     "upgradeNote": "Upgrading requires the desktop app — sign in from Settings, then complete checkout securely through Paddle.",
     "faqTitle": "Pricing questions",
     "faq1Q": "Do I need an account to use the Free plan?",
@@ -91,7 +91,9 @@
     "faq2Q": "Where do I upgrade?",
     "faq2A": "Open Screen Studio, sign in from Settings, then choose \"Upgrade to Pro\" — checkout happens securely through Paddle inside the app.",
     "faq3Q": "Can I cancel anytime?",
-    "faq3A": "Yes. Manage or cancel your subscription anytime from the Account panel in the app."
+    "faq3A": "Yes. Manage or cancel your subscription anytime from the Account panel in the app.",
+    "pro7": "No recording length limit",
+    "pro8": "Priority support"
   },
   "download": {
     "title": "Download Screen Studio",

@@ -70,7 +70,7 @@
     "freePeriod": "/süresiz",
     "freeCta": "Ücretsiz indir",
     "free1": "Sınırsız kayıt",
-    "free2": "Otomatik yakınlaştırma ve imleç animasyonları",
+    "free2": "Temel düzenleme (kırpma, bölme, hız)",
     "free3": "720p dışa aktarım",
     "free4": "En fazla 5 dakikalık kayıt süresi",
     "proBadge": "En popüler",
@@ -82,8 +82,8 @@
     "pro2": "4K 60fps'e kadar dışa aktarım",
     "pro3": "Kamera ve ses kaydı",
     "pro4": "Cihaz üzerinde transkript oluşturma",
-    "pro5": "Kayıt süresi sınırı yok",
-    "pro6": "Öncelikli destek",
+    "pro5": "Otomatik yakınlaştırma ve imleç animasyonları",
+    "pro6": "Bölümler, metin açıklamaları, notlar ve bulanıklaştırma",
     "upgradeNote": "Yükseltme işlemi masaüstü uygulaması üzerinden yapılır — Ayarlar'dan oturum açın, ardından ödemeyi Paddle üzerinden güvenli şekilde tamamlayın.",
     "faqTitle": "Fiyatlandırma soruları",
     "faq1Q": "Ücretsiz planı kullanmak için hesap oluşturmam gerekir mi?",
@@ -91,7 +91,9 @@
     "faq2Q": "Yükseltmeyi nereden yapabilirim?",
     "faq2A": "Screen Studio'yu açın, Ayarlar'dan oturum açın ve \"Pro'ya Yükselt\"i seçin — ödeme, uygulama içinde Paddle üzerinden güvenli şekilde gerçekleşir.",
     "faq3Q": "Aboneliğimi istediğim zaman iptal edebilir miyim?",
-    "faq3A": "Evet. Aboneliğinizi uygulamadaki Hesap panelinden istediğiniz zaman yönetebilir veya iptal edebilirsiniz."
+    "faq3A": "Evet. Aboneliğinizi uygulamadaki Hesap panelinden istediğiniz zaman yönetebilir veya iptal edebilirsiniz.",
+    "pro7": "Kayıt süresi sınırı yok",
+    "pro8": "Öncelikli destek"
   },
   "download": {
     "title": "Screen Studio'yu indirin",

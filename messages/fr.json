@@ -70,7 +70,7 @@
     "freePeriod": "/à vie",
     "freeCta": "Télécharger gratuitement",
     "free1": "Enregistrements illimités",
-    "free2": "Zoom automatique & animations de curseur",
+    "free2": "Montage de base (rogner, scinder, vitesse)",
     "free3": "Export en 720p",
     "free4": "Durée d'enregistrement max. de 5 minutes",
     "proBadge": "Le plus populaire",
@@ -82,8 +82,8 @@
     "pro2": "Export jusqu'en 4K 60 im/s",
     "pro3": "Enregistrement webcam & audio",
     "pro4": "Génération de transcription locale sur l'appareil",
-    "pro5": "Aucune limite de durée d'enregistrement",
-    "pro6": "Support prioritaire",
+    "pro5": "Zoom automatique et animations du curseur",
+    "pro6": "Chapitres, annotations, notes et flou",
     "upgradeNote": "La mise à niveau nécessite l'application de bureau — connectez-vous depuis les Réglages, puis finalisez votre achat en toute sécurité via Paddle.",
     "faqTitle": "Questions sur les tarifs",
     "faq1Q": "Ai-je besoin d'un compte pour utiliser l'offre Gratuite ?",
@@ -91,7 +91,9 @@
     "faq2Q": "Où puis-je effectuer la mise à niveau ?",
     "faq2A": "Ouvrez Screen Studio, connectez-vous depuis les Réglages, puis choisissez « Passer à Pro » — le paiement s'effectue en toute sécurité via Paddle, directement dans l'application.",
     "faq3Q": "Puis-je annuler à tout moment ?",
-    "faq3A": "Oui. Gérez ou annulez votre abonnement à tout moment depuis le panneau Compte de l'application."
+    "faq3A": "Oui. Gérez ou annulez votre abonnement à tout moment depuis le panneau Compte de l'application.",
+    "pro7": "Aucune limite de durée d'enregistrement",
+    "pro8": "Support prioritaire"
   },
   "download": {
     "title": "Télécharger Screen Studio",

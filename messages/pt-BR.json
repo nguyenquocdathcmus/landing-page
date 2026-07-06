@@ -70,7 +70,7 @@
     "freePeriod": "/para sempre",
     "freeCta": "Baixar gratuitamente",
     "free1": "Gravações ilimitadas",
-    "free2": "Zoom automático e animações de cursor",
+    "free2": "Edição básica (cortar, dividir, velocidade)",
     "free3": "Exportação em 720p",
     "free4": "Duração máxima de gravação de 5 minutos",
     "proBadge": "Mais popular",
@@ -82,8 +82,8 @@
     "pro2": "Exportação em até 4K 60fps",
     "pro3": "Gravação de webcam e áudio",
     "pro4": "Geração de transcrição no dispositivo",
-    "pro5": "Sem limite de duração de gravação",
-    "pro6": "Suporte prioritário",
+    "pro5": "Zoom automático e animações do cursor",
+    "pro6": "Capítulos, anotações de texto, notas e desfoque",
     "upgradeNote": "Para fazer upgrade é necessário usar o aplicativo desktop — faça login em Configurações e conclua a compra com segurança pela Paddle.",
     "faqTitle": "Perguntas sobre preços",
     "faq1Q": "Preciso de uma conta para usar o plano Grátis?",
@@ -91,7 +91,9 @@
     "faq2Q": "Onde faço o upgrade?",
     "faq2A": "Abra o Screen Studio, faça login em Configurações e escolha \"Fazer upgrade para o Pro\" — a compra é processada com segurança pela Paddle dentro do próprio aplicativo.",
     "faq3Q": "Posso cancelar a qualquer momento?",
-    "faq3A": "Sim. Gerencie ou cancele sua assinatura quando quiser no painel de Conta do aplicativo."
+    "faq3A": "Sim. Gerencie ou cancele sua assinatura quando quiser no painel de Conta do aplicativo.",
+    "pro7": "Sem limite de duração de gravação",
+    "pro8": "Suporte prioritário"
   },
   "download": {
     "title": "Baixe o Screen Studio",
