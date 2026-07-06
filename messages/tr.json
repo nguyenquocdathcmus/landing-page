@@ -130,5 +130,11 @@
     "ac1A": "Hayır. Screen Studio, kayıt ve kurgu için tamamen çevrimdışı çalışır. Hesap yalnızca Pro'ya yükseltmeniz durumunda gereklidir.",
     "ac2Q": "Aboneliğimi nasıl yönetebilir veya iptal edebilirim?",
     "ac2A": "Araç çubuğundan (profil simgesi) Hesap panelini açın, ardından abonelik ayarlarınızı açmak için \"Faturalandırmayı Yönet\"i kullanın."
+  },
+  "checkout": {
+    "successTitle": "Ödeme başarılı!",
+    "successBody": "Screen Studio Pro aboneliğiniz artık etkin.",
+    "successHint": "Screen Studio uygulamasına dönün — Pro planınız birkaç saniye içinde görünecektir (gerekirse Ayarlar'ı yeniden açın).",
+    "backHome": "Ana sayfaya dön"
   }
 }

@@ -130,5 +130,11 @@
     "ac1A": "不需要。Screen Studio 的录制和编辑功能完全支持离线使用。只有升级到专业版时才需要账户。",
     "ac2Q": "如何管理或取消订阅？",
     "ac2A": "点击工具栏中的头像图标打开「账户」面板，然后选择「管理账单」即可打开订阅设置。"
+  },
+  "checkout": {
+    "successTitle": "支付成功！",
+    "successBody": "您的 Screen Studio Pro 订阅已激活。",
+    "successHint": "请返回 Screen Studio 应用——Pro 方案将在几秒内显示（如有需要请重新打开设置）。",
+    "backHome": "返回首页"
   }
 }

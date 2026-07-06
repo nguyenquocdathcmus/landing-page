@@ -5,6 +5,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { PaddleCheckout } from "@/components/PaddleCheckout";
 import { routing } from "@/i18n/routing";
 import { RTL_LOCALES, type LocaleCode } from "@/i18n/locales";
 import "../globals.css";
@@ -62,6 +63,7 @@ export default async function LocaleLayout({
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <NextIntlClientProvider>
+          <PaddleCheckout />
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />

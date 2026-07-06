@@ -130,5 +130,11 @@
     "ac1A": "No. Screen Studio funziona completamente offline per registrazione ed editing. L'account è necessario solo se effettui l'upgrade a Pro.",
     "ac2Q": "Come gestisco o annullo il mio abbonamento?",
     "ac2A": "Apri il pannello Account dalla barra degli strumenti (icona del profilo), quindi usa \"Gestisci fatturazione\" per accedere alle impostazioni del tuo abbonamento."
+  },
+  "checkout": {
+    "successTitle": "Pagamento riuscito!",
+    "successBody": "Il tuo abbonamento a Screen Studio Pro è ora attivo.",
+    "successHint": "Torna all'app Screen Studio: il piano Pro apparirà entro pochi secondi (riapri le Impostazioni se necessario).",
+    "backHome": "Torna alla home"
   }
 }

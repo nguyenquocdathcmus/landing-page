@@ -130,5 +130,11 @@
     "ac1A": "Non. Screen Studio fonctionne entièrement hors ligne pour l'enregistrement et le montage. Un compte n'est nécessaire que si vous passez à l'offre Pro.",
     "ac2Q": "Comment gérer ou annuler mon abonnement ?",
     "ac2A": "Ouvrez le panneau Compte depuis la barre d'outils (icône de profil), puis utilisez « Gérer la facturation » pour accéder aux paramètres de votre abonnement."
+  },
+  "checkout": {
+    "successTitle": "Paiement réussi !",
+    "successBody": "Votre abonnement Screen Studio Pro est maintenant actif.",
+    "successHint": "Retournez dans l'application Screen Studio — votre offre Pro apparaîtra dans quelques secondes (rouvrez les Réglages si besoin).",
+    "backHome": "Retour à l'accueil"
   }
 }

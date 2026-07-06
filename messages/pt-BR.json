@@ -130,5 +130,11 @@
     "ac1A": "Não. O Screen Studio funciona totalmente offline para gravação e edição. Uma conta só é necessária se você fizer upgrade para o Pro.",
     "ac2Q": "Como gerencio ou cancelo minha assinatura?",
     "ac2A": "Abra o painel de Conta pela barra de ferramentas (ícone de perfil) e use \"Gerenciar cobrança\" para acessar as configurações da sua assinatura."
+  },
+  "checkout": {
+    "successTitle": "Pagamento concluído!",
+    "successBody": "Sua assinatura do Screen Studio Pro já está ativa.",
+    "successHint": "Volte ao aplicativo Screen Studio — seu plano Pro aparecerá em alguns segundos (reabra as Configurações se necessário).",
+    "backHome": "Voltar ao início"
   }
 }

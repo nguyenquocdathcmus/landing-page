@@ -130,5 +130,11 @@
     "ac1A": "Không. Screen Studio hoạt động hoàn toàn offline để ghi hình và chỉnh sửa. Tài khoản chỉ cần thiết khi bạn nâng cấp lên Pro.",
     "ac2Q": "Làm sao để quản lý hoặc hủy gói đăng ký?",
     "ac2A": "Mở bảng Tài khoản từ thanh công cụ (biểu tượng hồ sơ), sau đó dùng \"Quản lý thanh toán\" để mở cài đặt gói đăng ký của bạn."
+  },
+  "checkout": {
+    "successTitle": "Thanh toán thành công!",
+    "successBody": "Gói Screen Studio Pro của bạn đã được kích hoạt.",
+    "successHint": "Hãy quay lại ứng dụng Screen Studio — gói Pro sẽ hiển thị sau vài giây (mở lại Cài đặt nếu cần).",
+    "backHome": "Về trang chủ"
   }
 }

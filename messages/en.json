@@ -130,5 +130,11 @@
     "ac1A": "No. Screen Studio works fully offline for recording and editing. An account is only needed if you upgrade to Pro.",
     "ac2Q": "How do I manage or cancel my subscription?",
     "ac2A": "Open the Account panel from the toolbar (profile icon), then use \"Manage billing\" to open your subscription settings."
+  },
+  "checkout": {
+    "successTitle": "Payment successful!",
+    "successBody": "Your Screen Studio Pro subscription is now active.",
+    "successHint": "Return to the Screen Studio app — your Pro plan will appear within a few seconds (reopen Settings if needed).",
+    "backHome": "Back to home"
   }
 }

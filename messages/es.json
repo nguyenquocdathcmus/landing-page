@@ -130,5 +130,11 @@
     "ac1A": "No. Screen Studio funciona completamente sin conexión para grabar y editar. Solo se necesita una cuenta si actualizas a Pro.",
     "ac2Q": "¿Cómo gestiono o cancelo mi suscripción?",
     "ac2A": "Abre el panel de Cuenta desde la barra de herramientas (icono de perfil) y usa \"Gestionar facturación\" para acceder a la configuración de tu suscripción."
+  },
+  "checkout": {
+    "successTitle": "¡Pago realizado con éxito!",
+    "successBody": "Tu suscripción a Screen Studio Pro ya está activa.",
+    "successHint": "Vuelve a la aplicación Screen Studio: tu plan Pro aparecerá en unos segundos (reabre Ajustes si es necesario).",
+    "backHome": "Volver al inicio"
   }
 }
