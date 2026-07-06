@@ -23,7 +23,8 @@
     "privacy": "Gizlilik",
     "terms": "Kullanım Şartları",
     "rights": "Tüm hakları saklıdır.",
-    "madeFor": "macOS için geliştirildi."
+    "madeFor": "macOS için geliştirildi.",
+    "refunds": "İade politikası"
   },
   "home": {
     "badge": "Artık cihaz üzerinde transkript desteğiyle",
@@ -136,5 +137,9 @@
     "successBody": "Screen Studio Pro aboneliğiniz artık etkin.",
     "successHint": "Screen Studio uygulamasına dönün — Pro planınız birkaç saniye içinde görünecektir (gerekirse Ayarlar'ı yeniden açın).",
     "backHome": "Ana sayfaya dön"
+  },
+  "changelog": {
+    "title": "Değişiklik günlüğü",
+    "subtitle": "Screen Studio'daki yenilikler, sürüm sürüm."
   }
 }

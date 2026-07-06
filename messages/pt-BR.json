@@ -23,7 +23,8 @@
     "privacy": "Privacidade",
     "terms": "Termos",
     "rights": "Todos os direitos reservados.",
-    "madeFor": "Feito para macOS."
+    "madeFor": "Feito para macOS.",
+    "refunds": "Política de reembolso"
   },
   "home": {
     "badge": "Agora com transcrições no dispositivo",
@@ -136,5 +137,9 @@
     "successBody": "Sua assinatura do Screen Studio Pro já está ativa.",
     "successHint": "Volte ao aplicativo Screen Studio — seu plano Pro aparecerá em alguns segundos (reabra as Configurações se necessário).",
     "backHome": "Voltar ao início"
+  },
+  "changelog": {
+    "title": "Novidades",
+    "subtitle": "O que há de novo no Screen Studio, versão por versão."
   }
 }

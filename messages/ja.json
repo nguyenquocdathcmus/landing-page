@@ -23,7 +23,8 @@
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "rights": "All rights reserved.",
-    "madeFor": "macOS向けに開発。"
+    "madeFor": "macOS向けに開発。",
+    "refunds": "返金ポリシー"
   },
   "home": {
     "badge": "オンデバイス文字起こしに対応",
@@ -136,5 +137,9 @@
     "successBody": "Screen Studio Pro のサブスクリプションが有効になりました。",
     "successHint": "Screen Studio アプリに戻ってください。数秒以内に Pro プランが表示されます（必要に応じて設定を開き直してください）。",
     "backHome": "ホームに戻る"
+  },
+  "changelog": {
+    "title": "変更履歴",
+    "subtitle": "Screen Studio の新機能をリリースごとに紹介します。"
   }
 }

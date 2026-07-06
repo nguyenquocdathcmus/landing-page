@@ -23,7 +23,8 @@
     "privacy": "隐私政策",
     "terms": "服务条款",
     "rights": "保留所有权利。",
-    "madeFor": "为 macOS 精心打造。"
+    "madeFor": "为 macOS 精心打造。",
+    "refunds": "退款政策"
   },
   "home": {
     "badge": "现已支持设备端转录",
@@ -136,5 +137,9 @@
     "successBody": "您的 Screen Studio Pro 订阅已激活。",
     "successHint": "请返回 Screen Studio 应用——Pro 方案将在几秒内显示（如有需要请重新打开设置）。",
     "backHome": "返回首页"
+  },
+  "changelog": {
+    "title": "更新日志",
+    "subtitle": "Screen Studio 每个版本的新功能。"
   }
 }

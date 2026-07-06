@@ -23,7 +23,8 @@
     "privacy": "Privacy",
     "terms": "Terms",
     "rights": "All rights reserved.",
-    "madeFor": "Made for macOS."
+    "madeFor": "Made for macOS.",
+    "refunds": "Refund policy"
   },
   "home": {
     "badge": "Now with on-device transcripts",
@@ -136,5 +137,9 @@
     "successBody": "Your Screen Studio Pro subscription is now active.",
     "successHint": "Return to the Screen Studio app — your Pro plan will appear within a few seconds (reopen Settings if needed).",
     "backHome": "Back to home"
+  },
+  "changelog": {
+    "title": "Changelog",
+    "subtitle": "What's new in Screen Studio, release by release."
   }
 }

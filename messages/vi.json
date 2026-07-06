@@ -23,7 +23,8 @@
     "privacy": "Quyền riêng tư",
     "terms": "Điều khoản",
     "rights": "Đã đăng ký bản quyền.",
-    "madeFor": "Được tạo cho macOS."
+    "madeFor": "Được tạo cho macOS.",
+    "refunds": "Chính sách hoàn tiền"
   },
   "home": {
     "badge": "Hiện đã hỗ trợ chuyển văn bản ngay trên máy",
@@ -136,5 +137,9 @@
     "successBody": "Gói Screen Studio Pro của bạn đã được kích hoạt.",
     "successHint": "Hãy quay lại ứng dụng Screen Studio — gói Pro sẽ hiển thị sau vài giây (mở lại Cài đặt nếu cần).",
     "backHome": "Về trang chủ"
+  },
+  "changelog": {
+    "title": "Nhật ký thay đổi",
+    "subtitle": "Những gì mới trong Screen Studio qua từng bản phát hành."
   }
 }

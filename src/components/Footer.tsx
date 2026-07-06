@@ -26,6 +26,7 @@ export function Footer() {
         { href: "mailto:hello@screenstudio.example", label: t("contact") },
         { href: "/legal/privacy", label: t("privacy") },
         { href: "/legal/terms", label: t("terms") },
+        { href: "/legal/refunds", label: t("refunds") },
       ],
     },
   ];

@@ -23,7 +23,8 @@
     "privacy": "隱私權政策",
     "terms": "服務條款",
     "rights": "版權所有，翻印必究。",
-    "madeFor": "專為 macOS 打造。"
+    "madeFor": "專為 macOS 打造。",
+    "refunds": "退款政策"
   },
   "home": {
     "badge": "全新上線：裝置端逐字稿功能",
@@ -136,5 +137,9 @@
     "successBody": "您的 Screen Studio Pro 訂閱已啟用。",
     "successHint": "請返回 Screen Studio 應用程式——Pro 方案將於幾秒內顯示（如有需要請重新開啟設定）。",
     "backHome": "返回首頁"
+  },
+  "changelog": {
+    "title": "更新日誌",
+    "subtitle": "Screen Studio 每個版本的新功能。"
   }
 }
